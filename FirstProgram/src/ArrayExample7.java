@@ -13,7 +13,7 @@ public class ArrayExample7 {
 			    for (int i = 0; i < length; i++) {
 			      input[i] = scnr.nextInt();
 			    }
-			    System.out.println("Elements of the Array are: " + Arrays.toString(input));
+			    System.out.println("Elements of the Array both are: " + Arrays.toString(input));
 			    int sum = 0;
 			    sum = sum(input);
 			    System.out.println("\n****** SUM ******");
